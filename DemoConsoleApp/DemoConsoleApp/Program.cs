@@ -1,4 +1,4 @@
-﻿using System;
+ using System;
 
 namespace DemoConsoleApp
 {
@@ -6,7 +6,7 @@ namespace DemoConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! Changed on Web App");
         }
     }
 }
